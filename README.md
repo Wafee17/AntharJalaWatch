@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A community borewell monitor for groundwater awareness</strong><br/>
-  Crowdsourced water-table insights for farmers and residents in rural India
+  Crowdsourced water-table insights for farmers and residents in rural India.
 </p>
 
 <p align="center">

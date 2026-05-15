@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anthar-Jala Watch</string>
+    <string name="privacy_note">Exact locations are rounded (~100 m) — house numbers are never stored.</string>
+    <string name="recharge_title">Borewell Recharge Guide</string>
+    <string name="alerts_title">Water Alerts</string>
+    <string name="no_alerts">No alerts for your area right now. Keep logging readings!</string>
+    <string name="location_permission_required">Location permission is needed to log your borewell on the community map.</string>
+</resources>
